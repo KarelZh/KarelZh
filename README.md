@@ -26,6 +26,6 @@
   <img src='https://img.shields.io/badge/-BEM-yellowgreen' height='40' alt='Bem'>
 </div>
 
-Контакты:
-email: karel.zhenya1257@mail.ru
+Контакты:    
+email: karel.zhenya1257@mail.ru    
 tg: https://t.me/@KarelZh
